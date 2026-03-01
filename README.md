@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattvarghese
-- 👀 Find me on LinkedIn at https://www.linkedin.com/in/matt-varghese/
+- 👀 Find me on LinkedIn at https://www.linkedin.com/in/matt-varghese
 - 📫 Find me on Blogger at https://mattvarghese-cs.blogspot.com/
 - 💞️ I’m interested in architecting with minimalism and good abstractions, and in guiding others along the same road!
 
